@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: DocumentBuilder
+  commentId: N:DocumentBuilder
+  id: DocumentBuilder
+  children:
+  - DocumentBuilder.Helper
+  langs:
+  - csharp
+  - vb
+  name: DocumentBuilder
+  nameWithType: DocumentBuilder
+  fullName: DocumentBuilder
+  type: Namespace
+  assemblies:
+  - DocumentBuilder
+references:
+- uid: DocumentBuilder.Helper
+  commentId: T:DocumentBuilder.Helper
+  href: DocumentBuilder.Helper.html
+  name: Helper
+  nameWithType: Helper
+  fullName: DocumentBuilder.Helper

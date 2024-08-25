@@ -1,0 +1,27 @@
+{
+  "api/DocumentBuilder.Helper.html": {
+    "href": "api/DocumentBuilder.Helper.html",
+    "title": "Helper 类",
+    "keywords": "Helper 类 命名空间 DocumentBuilder 程序集 DocumentBuilder.dll public class Helper 继承 object Helper 继承成员 object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() 方法 getDataYYYYMMDD() 取得日期：yyyyMMDD public string getDataYYYYMMDD() 返回 string"
+  },
+  "api/DocumentBuilder.html": {
+    "href": "api/DocumentBuilder.html",
+    "title": "DocumentBuilder 命名空间",
+    "keywords": "DocumentBuilder 命名空间 类 Helper"
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started",
+    "keywords": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction",
+    "keywords": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE.",
+    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}

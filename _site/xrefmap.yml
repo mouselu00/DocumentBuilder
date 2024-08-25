@@ -1,0 +1,28 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: DocumentBuilder
+  name: DocumentBuilder
+  href: api/DocumentBuilder.html
+  commentId: N:DocumentBuilder
+  fullName: DocumentBuilder
+  nameWithType: DocumentBuilder
+- uid: DocumentBuilder.Helper
+  name: Helper
+  href: api/DocumentBuilder.Helper.html
+  commentId: T:DocumentBuilder.Helper
+  fullName: DocumentBuilder.Helper
+  nameWithType: Helper
+- uid: DocumentBuilder.Helper.getDataYYYYMMDD
+  name: getDataYYYYMMDD()
+  href: api/DocumentBuilder.Helper.html#DocumentBuilder_Helper_getDataYYYYMMDD
+  commentId: M:DocumentBuilder.Helper.getDataYYYYMMDD
+  fullName: DocumentBuilder.Helper.getDataYYYYMMDD()
+  nameWithType: Helper.getDataYYYYMMDD()
+- uid: DocumentBuilder.Helper.getDataYYYYMMDD*
+  name: getDataYYYYMMDD
+  href: api/DocumentBuilder.Helper.html#DocumentBuilder_Helper_getDataYYYYMMDD_
+  commentId: Overload:DocumentBuilder.Helper.getDataYYYYMMDD
+  isSpec: "True"
+  fullName: DocumentBuilder.Helper.getDataYYYYMMDD
+  nameWithType: Helper.getDataYYYYMMDD

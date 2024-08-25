@@ -1,0 +1,8 @@
+### YamlMime:TableOfContent
+items:
+- uid: DocumentBuilder
+  name: DocumentBuilder
+  items:
+  - uid: DocumentBuilder.Helper
+    name: Helper
+memberLayout: SamePage
